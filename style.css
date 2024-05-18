@@ -10,6 +10,7 @@ body {
   height: 250vh;
   width: 100vw;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 .main {
   height: 15vh;
@@ -244,7 +245,7 @@ img {
   }
   .carddetails {
     /* margin: auto; */
-    height: 350vh;
+    height: 400vh;
     display: block;
   }
   .one {
